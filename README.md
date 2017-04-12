@@ -1,1 +1,3 @@
 # Image-Classifier-using-TensorFlow
+
+This is my project on AI. As I have completed this project recently, I haven't documented it. I will do it soon and upload it. The project is to build a object detection classifier that detects different bottles (i.e. in my project - detection of water bottles or alcohol beverage bottle) using tensorflow. I have created my own dataset by scraping images from e-commerce websites and googles search images. There are 2500 train dataset and 900 validation dataset for each catergory of bottle (i.e water bottle and alcohol beverage bottle). I have use Keras  which is a high-level neural networks API, written in Python and runs on the top of TensorFlow. 
